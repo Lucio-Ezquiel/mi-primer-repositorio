@@ -1,0 +1,24 @@
+2025-05-28 10:39:37.032 [main] INFO  tienda.main.AplicacionTienda - Iniciando aplicación de Tienda Electrónica.
+2025-05-28 10:40:17.906 [main] INFO  tienda.util.ConexionBaseDatos - Tabla 'Categorias' verificada/creada.
+2025-05-28 10:40:17.918 [main] INFO  tienda.util.ConexionBaseDatos - Tabla 'Productos' verificada/creada.
+2025-05-28 10:40:29.087 [main] WARN  tienda.main.AplicacionTienda - Intento de crear producto con categoría ID inexistente: 1
+2025-05-28 10:40:51.838 [main] INFO  tienda.dao.impl.CategoriaDaoImpl - Categoría creada: Celulares
+2025-05-28 10:41:15.946 [main] INFO  tienda.dao.impl.CategoriaDaoImpl - Categoría eliminada: ID 1
+2025-05-28 10:41:28.037 [main] INFO  tienda.dao.impl.CategoriaDaoImpl - Categoría creada: Celulares
+2025-05-28 10:42:04.212 [main] INFO  tienda.main.AplicacionTienda - Aplicación de Tienda Electrónica finalizada.
+2025-05-29 11:07:51.359 [main] INFO  tienda.main.AplicacionTienda - Iniciando aplicación de Tienda Electrónica.
+2025-05-29 11:08:02.022 [main] INFO  tienda.util.ConexionBaseDatos - Tabla 'Categorias' verificada/creada.
+2025-05-29 11:08:02.022 [main] INFO  tienda.util.ConexionBaseDatos - Tabla 'Productos' verificada/creada.
+2025-05-29 11:08:57.530 [main] INFO  tienda.dao.impl.ProductoDaoImpl - Producto creado: Telefono
+2025-05-29 11:09:22.277 [main] INFO  tienda.dao.impl.CategoriaDaoImpl - Categoría eliminada: ID 2
+2025-05-29 11:09:53.431 [main] INFO  tienda.dao.impl.CategoriaDaoImpl - Categoría creada: Celulares
+2025-05-29 11:10:53.743 [main] INFO  tienda.dao.impl.CategoriaDaoImpl - Categoría actualizada: ID 3
+2025-05-29 11:11:05.815 [main] INFO  tienda.main.AplicacionTienda - Aplicación de Tienda Electrónica finalizada.
+2025-05-29 11:13:47.361 [main] INFO  tienda.main.AplicacionTienda - Iniciando aplicación de Tienda Electrónica.
+2025-05-29 11:14:18.182 [main] INFO  tienda.util.ConexionBaseDatos - Tabla 'Categorias' verificada/creada.
+2025-05-29 11:14:18.194 [main] INFO  tienda.util.ConexionBaseDatos - Tabla 'Productos' verificada/creada.
+2025-05-29 11:14:25.404 [main] WARN  tienda.main.AplicacionTienda - Intento de crear producto con categoría ID inexistente: 1
+2025-05-29 11:14:54.191 [main] INFO  tienda.dao.impl.CategoriaDaoImpl - Categoría creada: Celulares
+2025-05-29 11:15:24.729 [main] INFO  tienda.dao.impl.ProductoDaoImpl - Producto creado: Samsung A12
+2025-05-29 11:15:39.413 [main] INFO  tienda.main.AplicacionTienda - Aplicación de Tienda Electrónica finalizada.
+2025-05-31 17:27:21.126 [main] INFO  tienda.main.AplicacionTienda - Iniciando aplicación de Tienda Electrónica.
